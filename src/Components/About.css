@@ -1,0 +1,17 @@
+
+    .cardName  {
+        background-color: #8f1818;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin: 20px;
+        max-width: 400px;
+        color: aliceblue;
+    }
+
+    .Nombre {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+
